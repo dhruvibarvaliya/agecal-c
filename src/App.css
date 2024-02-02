@@ -1,0 +1,43 @@
+body{
+  text-align: center;
+}
+h4{
+  background: #36488A;
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+  color: white;
+  margin: 10px;
+  text-transform: capitalize;
+}
+input{
+  box-shadow:0px 1px 5px black;
+  border: none;
+  background: #D7DBDD;	
+  height: 20px;
+  border-radius: 5px;
+}
+.button{
+  background: #36488A;
+  padding: 50px;
+  padding-top: 20px;
+  border-radius: 10px;
+  display: inline-block;
+  color: white;
+  margin: 10px;
+  text-transform: capitalize;	
+  border: none;
+  font-family: inherit;
+  font-weight: bolder;
+  font-size: 20px;
+}
+p{
+  display: inline-block;
+  background: #36488A;
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+  color: white;
+  margin: 10px;
+  text-transform: capitalize;
+}
